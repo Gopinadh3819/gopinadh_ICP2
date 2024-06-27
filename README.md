@@ -1,1 +1,1 @@
-# gopinadh_ICP2
+Q1) In the main function took first and last name from user using input() and passed these variables to fullname function and used concatenation to concatenate the first and last name and returned it, the returned 
